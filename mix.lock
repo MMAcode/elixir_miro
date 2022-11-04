@@ -1,0 +1,3 @@
+%{
+  "lettuce": {:hex, :lettuce, "0.2.0", "00c328fcf445723a52d8e2ad696105074ab2a152f067e14d771f1b4cec7bc377", [:mix], [], "hexpm", "2e1cbfcf03ee9fe7087e7af590dec4be603c8a4f1240b42dbc43d4047862e72d"},
+}
